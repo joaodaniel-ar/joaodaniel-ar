@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <b>Front-end and developer</b> &nbsp;
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> <b>Full Stack Developer</b> &nbsp;
 </p>
 <p align="center">
   <g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Living in <b>Franca-SP</b>, <b>Brazil</b> &nbsp;
